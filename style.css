@@ -1,0 +1,56 @@
+body {
+  font-family: "Verdana", "Arial", serif;
+}
+
+a {
+  color: #020617;
+  text-decoration-line: none;
+}
+
+a:hover {
+  color: #3b82f6;
+  text-decoration-line: underline;
+}
+
+.text-lg,
+.text-xl {
+  line-height: 28px;
+}
+
+.text-sm {
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.text-lg {
+  font-size: 18px;
+}
+
+.text-xl {
+  font-size: 20px;
+}
+
+.text-3xl {
+  font-size: 30px;
+  line-height: 36px;
+}
+
+.text-orange-500 {
+  color: #f97316;
+}
+
+.text-amber-500 {
+  color: #f59e0b;
+}
+
+.text-amber-600 {
+  color: #d97706;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-heavy {
+  font-weight: 1000;
+}
